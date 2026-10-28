@@ -1,0 +1,18 @@
+{
+  "name": "testcafe-codecept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "codeceptjs": "^4.2.2",
+    "prettier": "^3.9.10",
+    "testcafe": "^3.7.6"
+  }
+}
